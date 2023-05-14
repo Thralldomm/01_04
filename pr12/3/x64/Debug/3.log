@@ -1,0 +1,76 @@
+﻿  3.cpp
+C:\Users\123\source\repos\вея\pr12\3\3.cpp(10,10): fatal  error C1083: Не удается открыть файл включение: chip.h: No such file or directory,
+
+Итоги по проекту:
+     1729 мс вызовов   1 C:\Users\123\source\repos\вея\pr12\3\3.vcxproj
+               1729 мс вызовов   1 Build                                   
+
+Итоги по целям:
+        0 мс вызовов   1 BeforeBuildGenerateSources              
+        0 мс вызовов   1 BeforeClCompile                         
+        0 мс вызовов   1 BuildGenerateSources                    
+        0 мс вызовов   1 _BuildGenerateSourcesAction             
+        0 мс вызовов   1 AfterBuildGenerateSourcesEvent          
+        0 мс вызовов   1 AfterBuildGenerateSources               
+        0 мс вызовов   1 _Midl                                   
+        0 мс вызовов   1 AfterMidl                               
+        0 мс вызовов   1 SelectCustomBuild                       
+        0 мс вызовов   1 _SelectedFiles                          
+        0 мс вызовов   1 PreBuildEvent                           
+        0 мс вызовов   1 SelectClCompile                         
+        0 мс вызовов   1 ResolveReferences                       
+        0 мс вызовов   1 ExpandSDKReferences                     
+        0 мс вызовов   1 SetCABuildNativeEnvironmentVariables    
+        0 мс вызовов   1 AfterResolveReferences                  
+        0 мс вызовов   1 FindReferenceAssembliesForReferences    
+        0 мс вызовов   1 _AddOutputPathToGlobalPropertiesToRemove
+        0 мс вызовов   1 GetResolvedWinMD                        
+        0 мс вызовов   1 _PrepareForReferenceResolution          
+        0 мс вызовов   1 PrepareProjectReferences                
+        0 мс вызовов   1 GetFrameworkPaths                       
+        0 мс вызовов   1 BeforeResolveReferences                 
+        0 мс вызовов   1 ResolveProjectReferences                
+        0 мс вызовов   1 MakeDirsForMidl                         
+        0 мс вызовов   1 ComputeMIDLGeneratedCompileInputs       
+        1 мс вызовов   1 AddExternalIncludDirectoriesToPaths     
+        1 мс вызовов   1 GetReferenceAssemblyPaths               
+        1 мс вызовов   1 GetReferencedVCProjectsInfo             
+        1 мс вызовов   1 BuildGenerateSourcesTraverse            
+        1 мс вызовов   1 _SplitProjectReferencesByFileExistence  
+        1 мс вызовов   1 ResolveAssemblyReferences               
+        1 мс вызовов   1 _Xsd                                    
+        1 мс вызовов   1 _PrepareForBuild                        
+        1 мс вызовов   1 BuildCompileTraverse                    
+        1 мс вызовов   1 ComputeCLInputPDBName                   
+        1 мс вызовов   1 CopyFileToFolders                       
+        1 мс вызовов   1 SetTelemetryEnvironmentVariables        
+        1 мс вызовов   1 ResolveSDKReferences                    
+        1 мс вызовов   1 _CheckWindowsSDKInstalled               
+        1 мс вызовов   1 AssignProjectConfiguration              
+        1 мс вызовов   1 ComputeCustomBuildOutput                
+        1 мс вызовов   1 ComputeReferenceCLInput                 
+        1 мс вызовов   1 WarnCompileDuplicatedFilename           
+        2 мс вызовов   1 SetBuildDefaultEnvironmentVariables     
+        3 мс вызовов   1 MakeDirsForCl                           
+        3 мс вызовов   1 _CheckForInvalidConfigurationAndPlatform
+        4 мс вызовов   1 _GetProjectReferenceTargetFrameworkProperties
+        4 мс вызовов   1 FixupCLCompileOptions                   
+        6 мс вызовов   1 CustomBuild                             
+        7 мс вызовов   1 PrepareForBuild                         
+       62 мс вызовов   1 InitializeBuildStatus                   
+     1611 мс вызовов   1 ClCompile                               
+
+Итоги по задачам:
+        0 мс вызовов   1 AssignProjectConfiguration              
+        0 мс вызовов   1 MSBuild                                 
+        0 мс вызовов   1 SetRidAgnosticValueForProjects          
+        1 мс вызовов   2 Message                                 
+        1 мс вызовов   1 ReadLinesFromFile                       
+        1 мс вызовов   1 CheckVCToolsetVersion                   
+        1 мс вызовов   1 Delete                                  
+        2 мс вызовов   5 MakeDir                                 
+        3 мс вызовов   1 Touch                                   
+        3 мс вызовов   9 SetEnv                                  
+        5 мс вызовов   3 GetOutOfDateItems                       
+       57 мс вызовов   1 WriteLinesToFile                        
+     1603 мс вызовов   1 CL                                      

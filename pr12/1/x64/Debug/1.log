@@ -1,0 +1,93 @@
+﻿  1.cpp
+C:\Users\123\source\repos\вея\pr12\1\1.cpp(10,10): fatal  error C1083: Не удается открыть файл включение: one.h: No such file or directory,
+
+Итоги по проекту:
+     3251 мс вызовов   1 C:\Users\123\source\repos\вея\pr12\1\1.vcxproj
+               3251 мс вызовов   1 Rebuild                                 
+
+Итоги по целям:
+        0 мс вызовов   1 ResolveSDKReferences                    
+        0 мс вызовов   1 ResolveProjectReferences                
+        0 мс вызовов   1 GetFrameworkPaths                       
+        0 мс вызовов   1 GetResolvedWinMD                        
+        0 мс вызовов   1 ComputeReferenceCLInput                 
+        0 мс вызовов   1 AfterResolveReferences                  
+        0 мс вызовов   1 ResolveReferences                       
+        0 мс вызовов   1 BuildGenerateSourcesTraverse            
+        0 мс вызовов   1 SelectCustomBuild                       
+        0 мс вызовов   1 ComputeCustomBuildOutput                
+        0 мс вызовов   1 _Xsd                                    
+        0 мс вызовов   1 ComputeMIDLGeneratedCompileInputs       
+        0 мс вызовов   1 _Midl                                   
+        0 мс вызовов   1 AfterBuildGenerateSourcesEvent          
+        0 мс вызовов   1 _BuildGenerateSourcesAction             
+        0 мс вызовов   1 BuildGenerateSources                    
+        0 мс вызовов   1 BuildCompileTraverse                    
+        0 мс вызовов   1 BeforeClCompile                         
+        0 мс вызовов   1 BeforeResolveReferences                 
+        0 мс вызовов   1 _PrepareForReferenceResolution          
+        0 мс вызовов   1 SetCABuildNativeEnvironmentVariables    
+        0 мс вызовов   1 CppClean                                
+        0 мс вызовов   1 AfterCppClean                           
+        0 мс вызовов   1 BeforeRebuild                           
+        0 мс вызовов   1 BeforeClean                             
+        0 мс вызовов   1 _SplitProjectReferencesByFileExistence  
+        0 мс вызовов   1 BeforeCppClean                          
+        0 мс вызовов   1 AfterClean                              
+        0 мс вызовов   1 Clean                                   
+        0 мс вызовов   1 PrepareProjectReferences                
+        0 мс вызовов   1 CleanPublishFolder                      
+        1 мс вызовов   1 PreBuildEvent                           
+        1 мс вызовов   1 CopyFileToFolders                       
+        1 мс вызовов   1 _SelectedFiles                          
+        1 мс вызовов   1 AfterBuildGenerateSources               
+        1 мс вызовов   1 FindReferenceAssembliesForReferences    
+        1 мс вызовов   1 WarnCompileDuplicatedFilename           
+        1 мс вызовов   1 ExpandSDKReferences                     
+        1 мс вызовов   1 GetReferencedVCProjectsInfo             
+        1 мс вызовов   1 BeforeBuildGenerateSources              
+        1 мс вызовов   1 _AddOutputPathToGlobalPropertiesToRemove
+        1 мс вызовов   1 AddExternalIncludDirectoriesToPaths     
+        1 мс вызовов   1 PGInstrumentedClean                     
+        1 мс вызовов   1 ComputeCLInputPDBName                   
+        1 мс вызовов   1 MakeDirsForMidl                         
+        1 мс вызовов   1 _PrepareForRebuild                      
+        1 мс вызовов   1 SelectClCompile                         
+        1 мс вызовов   1 GetReferenceAssemblyPaths               
+        1 мс вызовов   1 CleanReferencedProjects                 
+        1 мс вызовов   1 _PrepareForBuild                        
+        1 мс вызовов   1 ResolveAssemblyReferences               
+        1 мс вызовов   1 AfterMidl                               
+        2 мс вызовов   1 MakeDirsForCl                           
+        2 мс вызовов   1 _CheckWindowsSDKInstalled               
+        2 мс вызовов   1 SetBuildDefaultEnvironmentVariables     
+        3 мс вызовов   1 FixupCLCompileOptions                   
+        3 мс вызовов   1 AssignProjectConfiguration              
+        5 мс вызовов   1 _PrepareForClean                        
+        8 мс вызовов   1 InitializeBuildStatus                   
+       14 мс вызовов   1 CoreClean                               
+       24 мс вызовов   1 SetTelemetryEnvironmentVariables        
+       24 мс вызовов   1 CustomBuild                             
+       42 мс вызовов   1 CoreCppClean                            
+       60 мс вызовов   1 _CheckForInvalidConfigurationAndPlatform
+       76 мс вызовов   1 PrepareForBuild                         
+      131 мс вызовов   1 _GetProjectReferenceTargetFrameworkProperties
+     2823 мс вызовов   1 ClCompile                               
+
+Итоги по задачам:
+        1 мс вызовов   1 SetRidAgnosticValueForProjects          
+        1 мс вызовов   2 FindUnderPath                           
+        1 мс вызовов   2 Message                                 
+        1 мс вызовов   1 RemoveDuplicates                        
+        1 мс вызовов   1 MSBuild                                 
+        2 мс вызовов   2 ReadLinesFromFile                       
+        2 мс вызовов   1 AssignProjectConfiguration              
+        3 мс вызовов   1 Touch                                   
+        4 мс вызовов   5 Delete                                  
+        5 мс вызовов   9 SetEnv                                  
+        5 мс вызовов   1 CheckVCToolsetVersion                   
+        6 мс вызовов   7 MakeDir                                 
+        8 мс вызовов   3 WriteLinesToFile                        
+       24 мс вызовов   3 GetOutOfDateItems                       
+       37 мс вызовов   1 CppClean                                
+     2815 мс вызовов   1 CL                                      
